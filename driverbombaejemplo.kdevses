@@ -1,0 +1,57 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="9" >
+  <Doc0 NumberOfViews="1" URL="file:/home/uci/josrod/parteAcabadaJoseLuis/src/vital.h" >
+   <View0 Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:/home/uci/josrod/parteAcabadaJoseLuis/src/driverBomba.h" >
+   <View0 line="241" Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:/home/uci/josrod/parteAcabadaJoseLuis/src/driverGenerico.h" >
+   <View0 line="68" Type="Source" />
+  </Doc2>
+  <Doc3 NumberOfViews="1" URL="file:/home/uci/josrod/parteAcabadaJoseLuis/src/driverGenerico.cpp" >
+   <View0 line="88" Type="Source" />
+  </Doc3>
+  <Doc4 NumberOfViews="1" URL="file:/home/uci/parteAcabadaJoseLuis/src/driverbombaejemplo.cpp" >
+   <View0 line="134" Type="Source" />
+  </Doc4>
+  <Doc5 NumberOfViews="1" URL="file:/home/uci/parteAcabadaJoseLuis/src/driverBomba.cpp" >
+   <View0 line="112" Type="Source" />
+  </Doc5>
+  <Doc6 NumberOfViews="1" URL="file:/home/uci/parteAcabadaJoseLuis/src/ComunicacionPuertoSerie.cpp" >
+   <View0 line="356" Type="Source" />
+  </Doc6>
+  <Doc7 NumberOfViews="1" URL="file:/home/uci/parteAcabadaJoseLuis/src/ComunicacionPuertoSerie.h" >
+   <View0 line="0" Type="Source" />
+  </Doc7>
+  <Doc8 NumberOfViews="1" URL="file:/home/uci/parteAcabadaJoseLuis/src/Definiciones.h" >
+   <View0 line="0" Type="Source" />
+  </Doc8>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList/>
+  </kdevdebugger>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevrbdebugger>
+   <breakpointList/>
+   <watchExpressions>
+    <el>Probar</el>
+    <el>Probar</el>
+    <el>alarma</el>
+    <el>configurarPuerto</el>
+    <el>driverBomba</el>
+   </watchExpressions>
+  </kdevrbdebugger>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>
